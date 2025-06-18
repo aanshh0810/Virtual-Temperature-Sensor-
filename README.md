@@ -21,5 +21,5 @@ This project builds a virtual temperature sensor for electric motors using advan
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/<your-username>/virtual-temperature-sensor.git
-cd virtual-temperature-sensor
+git clone https://github.com/aanshh0810/Virtual-Temperature-Sensor-.git
+cd Virtual-Temperature-Sensor-
